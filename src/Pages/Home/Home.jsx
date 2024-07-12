@@ -1,3 +1,4 @@
+
 import Header from "../Share/Header";
 import Navbar from "../Share/Navbar";
 import LeftSideBar from "./LeftSideBar";
@@ -7,6 +8,7 @@ import Sliding from "./Sliding";
 
 
 const Home = () => {
+    
     return (
         <div className="mx-auto">
             <Header></Header>
